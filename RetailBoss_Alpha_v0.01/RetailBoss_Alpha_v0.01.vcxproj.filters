@@ -15,12 +15,30 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="NOTUSED_lesson1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NOTUSED_lesson2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NOTUSED_lesson3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="hello.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="background.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Downloads\lesson03\lesson03\look.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\Release\images\xout.png">
       <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>
