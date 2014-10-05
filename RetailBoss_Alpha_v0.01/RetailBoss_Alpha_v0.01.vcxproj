@@ -67,7 +67,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="lesson6.cpp" />
+    <ClCompile Include="NOTUSED_lesson6_spritesheet.cpp" />
+    <ClCompile Include="lesson7_text.cpp" />
     <ClCompile Include="NOTUSED_lesson4.cpp" />
     <ClCompile Include="NOTUSED_lesson5.cpp" />
     <ClCompile Include="NOTUSED_lesson2.cpp" />
