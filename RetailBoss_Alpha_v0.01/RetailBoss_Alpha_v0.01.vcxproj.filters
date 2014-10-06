@@ -30,10 +30,13 @@
     <ClCompile Include="NOTUSED_lesson5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="lesson7_text.cpp">
+    <ClCompile Include="NOTUSED_lesson6_spritesheet.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="NOTUSED_lesson6_spritesheet.cpp">
+    <ClCompile Include="NOTUSED_lesson7_text.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lesson8_keypress.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
