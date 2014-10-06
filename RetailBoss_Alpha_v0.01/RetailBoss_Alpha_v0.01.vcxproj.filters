@@ -39,7 +39,10 @@
     <ClCompile Include="NOTUSED_lesson8_keypress.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="lesson9_mouse.cpp">
+    <ClCompile Include="showNumberTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NOTUSED_lesson9_mouse.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
