@@ -1,10 +1,11 @@
-﻿Build started 10/5/2014 10:14:51 PM.
+﻿Build started 10/5/2014 11:35:45 PM.
      1>Project "C:\Users\Patrick\documents\visual studio 2010\Projects\RetailBoss_Alpha_v0.01\RetailBoss_Alpha_v0.01\RetailBoss_Alpha_v0.01.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
-         Creating "Release\RetailBoss_Alpha_v0.01.unsuccessfulbuild" because "AlwaysCreate" was specified.
+         Touching "Release\RetailBoss_Alpha_v0.01.unsuccessfulbuild".
        ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt lesson8_keypress.cpp NOTUSED_lesson6_spritesheet.cpp NOTUSED_lesson7_text.cpp NOTUSED_lesson4.cpp NOTUSED_lesson5.cpp NOTUSED_lesson2.cpp NOTUSED_lesson3.cpp NOTUSED_lesson1.cpp
-         lesson8_keypress.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt lesson9_mouse.cpp NOTUSED_lesson8_keypress.cpp NOTUSED_lesson6_spritesheet.cpp NOTUSED_lesson7_text.cpp NOTUSED_lesson4.cpp NOTUSED_lesson5.cpp NOTUSED_lesson2.cpp NOTUSED_lesson3.cpp NOTUSED_lesson1.cpp
+         lesson9_mouse.cpp
+         NOTUSED_lesson8_keypress.cpp
          NOTUSED_lesson6_spritesheet.cpp
          NOTUSED_lesson7_text.cpp
          NOTUSED_lesson4.cpp
@@ -13,7 +14,8 @@
          NOTUSED_lesson3.cpp
          NOTUSED_lesson1.cpp
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Patrick\documents\visual studio 2010\Projects\RetailBoss_Alpha_v0.01\Release\RetailBoss_Alpha_v0.01.exe" /NOLOGO SDLmain.lib SDL.lib SDL_ttf.lib SDL_net.lib SDL_mixer.lib SDL_image.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\RetailBoss_Alpha_v0.01.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Patrick\documents\visual studio 2010\Projects\RetailBoss_Alpha_v0.01\Release\RetailBoss_Alpha_v0.01.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Patrick\documents\visual studio 2010\Projects\RetailBoss_Alpha_v0.01\Release\RetailBoss_Alpha_v0.01.lib" /MACHINE:X86 Release\lesson8_keypress.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Patrick\documents\visual studio 2010\Projects\RetailBoss_Alpha_v0.01\Release\RetailBoss_Alpha_v0.01.exe" /NOLOGO SDLmain.lib SDL.lib SDL_ttf.lib SDL_net.lib SDL_mixer.lib SDL_image.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\RetailBoss_Alpha_v0.01.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Patrick\documents\visual studio 2010\Projects\RetailBoss_Alpha_v0.01\Release\RetailBoss_Alpha_v0.01.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Patrick\documents\visual studio 2010\Projects\RetailBoss_Alpha_v0.01\Release\RetailBoss_Alpha_v0.01.lib" /MACHINE:X86 Release\lesson9_mouse.obj
+         Release\NOTUSED_lesson8_keypress.obj
          Release\NOTUSED_lesson6_spritesheet.obj
          Release\NOTUSED_lesson7_text.obj
          Release\NOTUSED_lesson4.obj
@@ -26,11 +28,9 @@
          RetailBoss_Alpha_v0.01.vcxproj -> C:\Users\Patrick\documents\visual studio 2010\Projects\RetailBoss_Alpha_v0.01\Release\RetailBoss_Alpha_v0.01.exe
        Manifest:
          C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Patrick\documents\visual studio 2010\Projects\RetailBoss_Alpha_v0.01\Release\RetailBoss_Alpha_v0.01.exe;#1" /manifest Release\RetailBoss_Alpha_v0.01.exe.intermediate.manifest
-       FinalizeBuildStatus:
-         Deleting file "Release\RetailBoss_Alpha_v0.01.unsuccessfulbuild".
-         Touching "Release\RetailBoss_Alpha_v0.01.lastbuildstate".
-     1>Done Building Project "C:\Users\Patrick\documents\visual studio 2010\Projects\RetailBoss_Alpha_v0.01\RetailBoss_Alpha_v0.01\RetailBoss_Alpha_v0.01.vcxproj" (build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppCommon.targets(562,5): error MSB6006: "mt.exe" exited with code 31.
+     1>Done Building Project "C:\Users\Patrick\documents\visual studio 2010\Projects\RetailBoss_Alpha_v0.01\RetailBoss_Alpha_v0.01\RetailBoss_Alpha_v0.01.vcxproj" (build target(s)) -- FAILED.
 
-Build succeeded.
+Build FAILED.
 
-Time Elapsed 00:00:01.58
+Time Elapsed 00:00:01.17
