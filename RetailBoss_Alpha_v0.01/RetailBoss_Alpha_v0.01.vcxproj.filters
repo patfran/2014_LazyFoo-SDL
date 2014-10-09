@@ -42,10 +42,16 @@
     <ClCompile Include="NOTUSED_lesson9_mouse.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="numberClick.cpp">
+    <ClCompile Include="NOTUSED_showNumberTest.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="NOTUSED_showNumberTest.cpp">
+    <ClCompile Include="NOTUSED_numberClick.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="timerTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="buyTesting.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
